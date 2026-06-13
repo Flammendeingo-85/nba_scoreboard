@@ -1,6 +1,6 @@
 # NBA Themed - Scoreboard
 
-![Design preview for the NBA themed scoreboard coding project](./design/design_nbascoreboard.png)
+[Design preview for the NBA themed scoreboard coding project](../nba_scoreboard/design/design_nbascoreboard.png)
 
 ## Welcome! 👋
 
@@ -18,7 +18,7 @@ Technologies used:
 Building a Scoreboard in NBA-style; with the following functions:
 
 - Display the score: Home and Guest team
-- Have three buttons to add a +1, +2, +3
+- Have three buttons to add a: +1, +2, +3 to the score of the current game
 - Have a button which shows: Start New Game
 - Have a display to show who has the Lead
 - Have a reset button, to reset everything
