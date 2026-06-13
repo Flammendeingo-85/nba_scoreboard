@@ -1,6 +1,6 @@
 # NBA Themed - Scoreboard
 
-[Design preview for the NBA themed scoreboard coding project](./design/nba_scoreboard.jpeg)
+[Design preview for the NBA themed scoreboard coding project](./nba_scoreboard.jpeg)
 
 ## Welcome! 👋
 
