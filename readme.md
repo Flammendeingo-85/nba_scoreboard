@@ -6,6 +6,7 @@
 
 Thanks for checking out this front-end coding project.
 Completed this challenge from the The Fullstack Developer Path on Scrimba
+
 Technologies used:
 
 - HTML
